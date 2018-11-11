@@ -22,9 +22,9 @@ New practice for me was to work with the redirection commands and the bash profi
 
 ## Intro to HTML and CSS
 
-*The information about html and css wasn't new for me, but l really like interactive course of HTML Academy with cat Keks.
+*The information about html and css wasn't new for me, but l really like interactive course of HTML Academy with cat Keks.*
 
-The screenshot of completing courses see below*
+The screenshot of completing courses see below:
 ![Intro to HTML and CSS](task_git_html_css_intro/html_css_udacity.JPG)
 ![Intro to HTML and CSS](task_git_html_css_intro/HTMLAcademy_html1.jpg)
 ![Intro to HTML and CSS](task_git_html_css_intro/HTMLAcademy_css.jpg)

@@ -29,3 +29,9 @@ The screenshot of completing courses see below:
 ![Intro to HTML and CSS](task_git_html_css_intro/HTMLAcademy_html1.jpg)
 ![Intro to HTML and CSS](task_git_html_css_intro/HTMLAcademy_css.jpg)
 
+## Responsive Web Design
+
+*The theme of adaptive web design is very important, the course helped to reminder how media queries and flexbox work, about most popular layout responsive patterns. I definitely will use this all in the future.*
+
+![Responsive Web Design](task_responsive_web_design/udacity_responsive_web_design.JPG)
+![Responsive Web Design](task_responsive_web_design/flexbox_froggy.JPG)

@@ -35,3 +35,10 @@ The screenshot of completing courses see below:
 
 ![Responsive Web Design](task_responsive_web_design/udacity_responsive_web_design.JPG)
 ![Responsive Web Design](task_responsive_web_design/flexbox_froggy.JPG)
+
+## JS Basics
+
+*The course 'Intro to JS' on **udacity.com** was interesting and fast passed, opposed to course at **learn.freecodecamp.org**. The  exercises were quite difficult for me, but looking for a solution, I learned a lot of new things*
+
+![JS Basics](task_js_basics/udacityJS.jpg)
+![JS Basics](task_js_basics/freecodecampPart1.jpg)
